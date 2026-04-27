@@ -45,6 +45,8 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de sistemas na U
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **A Corrida do Prompt** | Testes de prompts na plataforma QWEN. | [Ver Projeto](https://acadcruzeirodosul-my.sharepoint.com/:w:/g/personal/isabella_franca_cs_unicid_edu_br/IQDEqYv9sVjiQ5Bmvtsf8QNNAQd2aQLqZxnH4lB7okosyps?e=4fT7W6) |
+| **Laboratório de Classificação Visual** | Treinamento de um modelo de imagem . | [Ver Projeto]( https://acadcruzeirodosul-my.sharepoint.com/:w:/g/personal/isabella_franca_cs_unicid_edu_br/IQAQmD9bLYg5SLkLxKOeZiu-AUR4Y8PvdEzHPh-rTgjyukg?e=6gfWvH ) |
+
  
 ---
  
