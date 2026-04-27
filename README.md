@@ -44,7 +44,7 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de sistemas na U
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **A Corrida do Prompt** | Testes de prompts na plataforma QWEN. | [Ver Projeto](https://acadcruzeirodosul-my.sharepoint.com/:w:/g/personal/isabella_franca_cs_unicid_edu_br/IQDEqYv9sVjiQ5Bmvtsf8QNNAQd2aQLqZxnH4lB7okosyps?e=4fT7W6) |
  
 ---
  
