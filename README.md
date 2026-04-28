@@ -42,10 +42,11 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de sistemas na U
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
  
 #### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **A Corrida do Prompt** | Testes de prompts na plataforma QWEN. | [Ver Projeto](https://acadcruzeirodosul-my.sharepoint.com/:w:/g/personal/isabella_franca_cs_unicid_edu_br/IQDEqYv9sVjiQ5Bmvtsf8QNNAQd2aQLqZxnH4lB7okosyps?e=4fT7W6) |
 | **Laboratório de Classificação Visual** | Treinamento de um modelo de imagem . | [Ver Projeto]( https://acadcruzeirodosul-my.sharepoint.com/:w:/g/personal/isabella_franca_cs_unicid_edu_br/IQAQmD9bLYg5SLkLxKOeZiu-AUR4Y8PvdEzHPh-rTgjyukg?e=6gfWvH ) |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Prompt Estruturado em XML . | [Ver Projeto]( https://1drv.ms/w/c/daebf361ec348fee/IQDHbgWLVNqcSKQAhZ7GWrC1AShWMOSbkzjLS2uyXRKiij8?e=9iqLqO) |
+| **Engenharia Reversa** | Desenvolvedor de Software assistido por IA . | [Ver Projeto]( https://1drv.ms/w/c/daebf361ec348fee/IQCbKKvRlf6zS76Po_0VsK-IAfc7l6f6JoLv13pAPqCwglQ?e=NvvpBP) |
+| **Do Clone ao Produto Mínimo Viável (MVP+)** | Otimização do aplicativo assistido por IA . | [Ver Projeto]( https://1drv.ms/w/c/daebf361ec348fee/IQCbKKvRlf6zS76Po_0VsK-IAfc7l6f6JoLv13pAPqCwglQ?e=NvvpBP) |
 
  
 ---
