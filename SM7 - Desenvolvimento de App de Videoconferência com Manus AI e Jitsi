@@ -1,0 +1,39 @@
+# ⚽ FutMentor - Videoconferência para Análise Tática e Mentoria Esportiva
+
+## 🔗 Status do Projeto & Preview
+* **Link de Pré-visualização (Manus AI):** [Acesse o Protótipo Aqui](https://futmentor-ddbkbi7x.manus.space)
+* **Status de Desenvolvimento:** O projeto encontra-se em fase de estruturação de código (Android/Kotlin). Devido ao limite de processamento na plataforma Manus AI, as funcionalidades de integração total com o SDK do Jitsi Meet estão em processo de refinamento manual.
+
+---
+
+## 📝 Proposta de Valor
+O **FutMentor** é um aplicativo de videoconferência desenhado especificamente para treinadores e atletas. Ele resolve a dificuldade de realizar correções táticas à distância, oferecendo um ambiente estável para mentoria esportiva.
+
+**Diferencial:** Foco em baixa latência para demonstração de movimentos e integração futura de ferramentas de desenho sobre o vídeo.
+
+---
+
+## 🚀 Tecnologias e Arquitetura
+A estrutura base do projeto foi gerada seguindo o paradigma de **Desenvolvimento Assistido por IA**:
+
+* [cite_start]**Manus AI:** Utilizada para a criação do Blueprint inicial, definição de telas e lógica de navegação Android[cite: 93, 118].
+* **Jitsi Meet SDK:** Framework escolhido para o motor de comunicação (em fase de implementação de dependências).
+* [cite_start]**Android SDK:** Estrutura de pastas e componentes de UI gerados pela IA[cite: 126, 128].
+
+---
+
+## 🏗️ Atuação de Engenharia (Auditoria Crítica)
+Como o código gerado pela IA é um rascunho avançado, minha atuação focou em:
+1. [cite_start]**Engenharia de Requisitos:** Tradução da necessidade tática esportiva em instruções para a Manus AI[cite: 94, 96].
+2. [cite_start]**Auditoria de Código:** Identificação de débitos técnicos e organização da estrutura de pastas para garantir escalabilidade futura[cite: 120, 126].
+3. [cite_start]**Decomposição Lógica:** Divisão das tarefas de UI e Integração de API para superar as limitações de geração automática.
+
+---
+
+## 🔧 Instruções de Instalação (Draft)
+1.  Clone o repositório para sua máquina local.
+2.  Importe o projeto no **Android Studio**.
+3.  Verifique o arquivo `build.gradle` para assegurar que as dependências do Jitsi Meet estão sendo baixadas corretamente.
+
+---
+[Voltar ao Perfil Principal](https://github.com/seu-usuario-repositorio)
