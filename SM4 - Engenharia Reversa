@@ -1,0 +1,46 @@
+# 🛠️ Engenharia de Software Assistida por IA: Auditoria e Vibecoding
+
+## 📝 Descrição do Projeto
+Este repositório explora técnicas avançadas de **Programação Assistida por IA**, focando em metodologias de **Vibecoding** (prototipagem rápida) e **Engenharia Reversa**. O objetivo é demonstrar como o desenvolvedor moderno atua como um auditor crítico, garantindo que o código gerado por LLMs seja seguro, eficiente e ético.
+
+---
+
+## 🎯 Metodologia de Refinamento e Correção
+Dominar a IA exige saber onde ela falha. Este projeto aplica quatro pilares fundamentais para o ajuste de modelos:
+* **Erro e Contraste:** Identificação precisa da falha (ex: tempo verbal ou critério ignorado) fornecendo o contraexemplo.
+* **Negative Prompting:** Uso de comandos de exclusão explícitos para evitar bibliotecas indesejadas ou informações desnecessárias.
+* **Few-Shot Prompting:** Fornecimento de exemplos de alta qualidade para guiar o estilo e a profundidade da resposta.
+* **Chain of Thought:** Solicitação de explicação do raciocínio passo a passo antes da execução da tarefa complexa.
+
+---
+
+## 🏗️ Framework de Vibecoding (Rapid Prototyping)
+Utilizei uma estrutura de inicialização em **XML** para transformar a IA em um **Desenvolvedor Full-Stack Sênior** focado em clonagem fiel e Clean Code.
+
+### Protocolo de Execução:
+* **Role Definition:** Atuação como especialista em Engenharia Reversa.
+* **Reverse Engineering Map:** Mapeamento de estrutura de layout, componentes e funcionalidades principais (Core Features).
+* **Execution Rules:** Desenvolvimento modular através de **Atomic Design**, priorizando a responsividade e a validação componente por componente.
+
+---
+
+## 🧠 Auditoria Crítica e Ética
+Abaixo, apresento minha visão sobre o novo papel do desenvolvedor na era da IA generativa:
+
+### O Desenvolvedor como Auditor
+A IA pode gerar códigos funcionalmente corretos, mas frágeis ou inseguros. Minha atuação foca em:
+1.  **Auditoria Crítica e Debugging Reverso:** Identificação de débitos técnicos e falhas de segurança ignoradas pela automação.
+2.  **Engenharia de Requisitos:** Tradução de problemas de negócio em instruções lógicas precisas (de "codificador" para "tradutor de soluções").
+
+### O Limite entre Aprender e Plagiar
+A engenharia reversa deve ser uma ferramenta de **compreensão da arquitetura lógica** e do fluxo de dados. O plágio digital ocorre quando a tecnologia é usada apenas para "clonagem funcional" de propriedade intelectual alheia. Defendo o uso da IA como uma professora para decompor sistemas complexos (como ferramentas de OSINT), e não como uma ferramenta de duplicação integral de produtos existentes.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+* **Google AI Studio:** Ajuste de *System Instructions* e controle de *Temperatura* para precisão acadêmica.
+* **Frameworks:** React/Next.js, Tailwind CSS e bibliotecas de componentes (Shadcn/ui).
+* **Técnicas:** Prefilling (Edição direta de respostas) e Programação Modular.
+
+---
+[Voltar ao Perfil Principal](https://github.com/SEU_USUARIO_GITHUB)
