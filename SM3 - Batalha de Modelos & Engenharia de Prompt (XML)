@@ -1,0 +1,38 @@
+# ⚔️ Batalha de Modelos & Engenharia de Prompt (XML)
+
+## 📝 Descrição do Projeto
+[cite_start]Este projeto documenta um experimento avançado de **Engenharia de Prompt Estruturado**, utilizando a linguagem de marcação **XML** para padronizar a saída de múltiplos modelos de Large Language Models (LLMs). 
+
+[cite_start]O objetivo central foi avaliar a capacidade de diferentes motores de IA (Gemini, ChatGPT, Claude, entre outros) em gerar uma **Single Page Application (SPA)** funcional em HTML5 e CSS3, seguindo diretrizes rígidas de design e restrições técnicas sem o uso de frameworks externos[cite: 48, 49, 51].
+
+---
+
+## 🛠️ O Prompt Estruturado (Protocolo XML)
+[cite_start]Diferente de prompts em linguagem natural comum, utilizei uma estrutura de **especificação de tarefa** organizada em tags para minimizar alucinações e garantir o rigor técnico.
+
+### Estrutura do Comando:
+* [cite_start]**`<task_specification>`**: Define o escopo global do projeto.
+* [cite_start]**`<requirements>`**: Estabelece o formato mobile-first e as seções de conteúdo (DataVis Pro).
+* [cite_start]**`<constraints>`**: Determina a paleta de cores (#2563eb, #f8fafc) e regras estritas de proibição de bibliotecas externas.
+
+---
+
+## 📊 Quadro de Análise Comparativa
+[cite_start]A experiência envolveu o teste do mesmo protocolo XML em diversas ferramentas para medir[cite: 52, 53]:
+* [cite_start]**Precisão do HTML/CSS:** Qual modelo seguiu as regras de layout responsivo[cite: 53].
+* [cite_start]**Verbosidade e Custo:** Análise da quantidade de **tokens** gerados por cada IA[cite: 53, 56].
+* [cite_start]**Compreensão de Estrutura:** Identificação de qual modelo melhor interpretou as tags XML[cite: 55].
+
+### Principais Insights:
+* [cite_start]**Modelo Vencedor (Compreensão):** O **Gemini** demonstrou alta capacidade de prototipagem rápida e precisão na execução das regras estritas[cite: 55].
+* [cite_start]**Eficiência:** Houve uma variação notável na verbosidade (tokens), o que impacta diretamente a velocidade e o custo de escala em aplicações reais.
+
+---
+
+## 🚀 Tecnologias e Metodologias
+* **Engenharia de Prompt:** Prompting Estruturado (XML), Few-shot/Zero-shot.
+* **Desenvolvimento Web:** HTML5 Semântico, CSS3 (Mobile-first).
+* [cite_start]**Análise Comparativa:** Benchmarking de LLMs (Gemini, Qwen, ChatGPT, etc.)[cite: 49].
+
+---
+[Voltar ao Perfil Principal](https://github.com/SEU_USUARIO_GITHUB)
