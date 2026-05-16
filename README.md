@@ -1,111 +1,63 @@
 # Isabella Borges Albuquerque França
-> Estudante de Analise e Desenvolvimento de sistemas
- 
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS) | 2º Semestre
+
 ---
- 
+
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-borges-4737a2261/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellaborgesfranca@hotmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
- 
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/isabella-borges-4737a2261/)
+
 ---
- 
-### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Analise e Desenvolvimento de sistemas na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados.
- 
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
- 
+
+### 👩‍💻 Sobre
+Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Sou apaixonada por resolver problemas complexos através da tecnologia, com foco em **Análise de Dados, Engenharia de Prompt e Governança de TI**.
+
+* **Habilidades Técnicas:** Python, SQL, Modelagem Relacional (MER/DER), Engenharia de Prompt Estruturada (XML) e Low-Code (Bubble).
+* **Habilidades Socioemocionais:** Pensamento crítico, comunicação assertiva, atenção a regras de negócio e trabalho em equipe.
+* **Foco de Carreira:** Atuar como uma "tradutora de soluções", utilizando a IA como copiloto para acelerar a entrega de software robusto e ético.
+
 ---
- 
+
 ### 🛠 Minhas Ferramentas Favoritas
- 
+
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- 
-#### 🗄️ Banco de Dados
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+#### 🗄️ Banco de Dados e Low-Code
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dados
+![Bubble](https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white)
+
+#### 🤖 Inteligência Artificial & Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
----
- 
-### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| **A Corrida do Prompt** | Testes de prompts na plataforma QWEN. | [Ver Projeto](https://acadcruzeirodosul-my.sharepoint.com/:w:/g/personal/isabella_franca_cs_unicid_edu_br/IQDEqYv9sVjiQ5Bmvtsf8QNNAQd2aQLqZxnH4lB7okosyps?e=4fT7W6) |
-| **Laboratório de Classificação Visual** | Treinamento de um modelo de imagem . | [Ver Projeto]( https://acadcruzeirodosul-my.sharepoint.com/:w:/g/personal/isabella_franca_cs_unicid_edu_br/IQAQmD9bLYg5SLkLxKOeZiu-AUR4Y8PvdEzHPh-rTgjyukg?e=6gfWvH ) |
-| **Batalha de Modelos & Engenharia de Prompt (XML)** | Prompt Estruturado em XML . | [Ver Projeto]( https://1drv.ms/w/c/daebf361ec348fee/IQDHbgWLVNqcSKQAhZ7GWrC1AShWMOSbkzjLS2uyXRKiij8?e=9iqLqO) |
-| **Engenharia Reversa** | Desenvolvedor de Software assistido por IA . | [Ver Projeto]( https://1drv.ms/w/c/daebf361ec348fee/IQCbKKvRlf6zS76Po_0VsK-IAfc7l6f6JoLv13pAPqCwglQ?e=NvvpBP) |
-| **Do Clone ao Produto Mínimo Viável (MVP+)** | Otimização do aplicativo assistido por IA . | [Ver Projeto]( https://1drv.ms/w/c/daebf361ec348fee/IQCbKKvRlf6zS76Po_0VsK-IAfc7l6f6JoLv13pAPqCwglQ?e=NvvpBP) |
+![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
- 
 ---
- 
+
+### 📂 Portfólio de Atividades (SM)
+
+Abaixo, a lista de laboratórios práticos realizados, conforme a estrutura de pastas do repositório:
+
+| ID | Atividade | Descrição | Link |
+| :--- | :--- | :--- | :---: |
+| **SM1** | **A Corrida do Prompt** | Testes de iteração e refinamento na plataforma QWEN. | [Ver](./SM1%20-%20A%20Corrida%20do%20Prompt/) |
+| **SM2** | **Laboratório de Classificação** | Estudo de viés algorítmico e ética com Teachable Machine. | [Ver](./SM2%20-%20Laboratório%20de%20Classificação%20Visual/) |
+| **SM3** | **Batalha de Modelos (XML)** | Engenharia de Prompt Estruturada para geração de SPAs. | [Ver](./SM3%20-%20Batalha%20de%20Modelos%20&%20Engenharia%20de%20Prompt%20(XML)/) |
+| **SM4** | **Engenharia Reversa** | Auditoria de código e reflexão sobre o limite entre aprender e plagiar. | [Ver](./SM4%20-%20Engenharia%20Reversa/) |
+| **SM5** | **Do Clone ao MVP+** | Evolução de produto com diferenciais competitivos e inovação. | [Ver](./SM5%20-%20Do%20Clone%20ao%20Produto%20Mínimo%20Viável%20(MVP+)/) |
+| **SM6** | **Engenharia de Software e Low-Code** | Desenvolvimento governado no Bubble.io com foco em Privacy Rules. | [Ver](./SM6%20-%20Engenharia%20de%20Software%20e%20Low-Code/) |
+| **SM7** | **Desenvolvimento de App Vídeo** | Integração Jitsi Meet e Manus AI para mentoria esportiva (FutMentor). | [Ver](./SM7%20-%20Desenvolvimento%20de%20App%20de%20Videoconferência/) |
+| **SM8** | **Composição Musical IA** | Criação fonográfica assistida por RAG (Gems) e Suno AI. | [Ver](./SM8%20-%20Composição%20Musical%20Assistida%20por%20IA/) |
+
+---
+
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-3. Modelo: README Específico (Dentro das Pastas)
-Cada projeto deve ter seu próprio README.md detalhado. Use este modelo:
+Abaixo, a organização para facilitar a navegação:
 
-# 🎬 Sistema de Recomendação de Filmes
- 
-## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O objetivo principal é mitigar a "paralisia de escolha", oferecendo aos usuários sugestões personalizadas com base em seu histórico de visualização e preferências de gênero.
- 
-Desenvolvido como parte da disciplina de **Inteligência Artificial (2024.1)**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever a nota que um usuário daria a um filme ainda não assistido.
- 
-http://googleusercontent.com/image_generation_content/0
-*Figura 1: Dashboard principal do sistema exibindo recomendações personalizadas.*
- 
-## 🚀 Tecnologias Utilizadas
-* **Linguagem:** Python 3.10
-* **Bibliotecas:** Pandas, Scikit-learn, Matplotlib
-* **Ferramentas:** Jupyter Notebook, Google Colab
- 
-## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o sistema agrupa filmes por afinidade.
- 
-![Gráfico de Performance e Métricas](IMAGEM_2_AQUI)
-*Figura 2: Análise métrica do desempenho do modelo.*
- 
-## 🔧 Como Executar
-1. Clone o repositório.
-2. Instale as dependências: `pip install -r requirements.txt`.
-3. Execute o comando: `python main.py`.
- 
-![Demonstração do Fluxo de Dados](IMAGEM_3_AQUI)
-*Figura 3: Representação visual do pipeline de dados.*
- 
+- `root/`: Apresentação principal e centralização de projetos.
+- `/SMX - Nome/`: Pastas numeradas contendo a documentação técnica e códigos de cada laboratório.
+
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
-
-
-4. Estrutura de Pastas Esperada
-Para que o portfólio seja organizado, o aluno deve manter a seguinte hierarquia no GitHub:
-
-.
-├── README.md (Principal)
-├── .github/ (Opcional: para imagens e assets)
-├── modelagem-banco-dados-01/
-│   ├── script_criacao.sql
-│   ├── diagrama_er.png
-│   └── README.md (Específico do projeto)
-└── inteligencia-artificial-01/
-    ├── notebook_analise.ipynb
-    ├── dataset.csv
-    └── README.md (Específico do projeto)
+© 2026 - Isabella Borges
